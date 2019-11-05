@@ -1,2 +1,2 @@
 # RecNet
-Predicting Large Serine Recombinases From attB/attP Attachment Sites
+Predicting attB/attP Attachment Sites and the Recombinases that bind them.
